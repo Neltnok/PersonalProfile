@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Ken Neltnor</string>
+    <string name="txt_caption">Ken and Therapy Dogs</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Ken recently retired after 42 years in engineering. He keeps busy playing
+    his violin, RVing with wife Cindy and providing their King Charles Spaniels as
+        therapy dogs to a local hospital.</string>
+</resources>
